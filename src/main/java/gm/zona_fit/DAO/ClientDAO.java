@@ -1,7 +1,7 @@
 package gm.zona_fit.DAO;
 
 import gm.zona_fit.models.Client;
-import gm.zona_fit.repositorio.ClientRepository;
+import gm.zona_fit.repository.ClientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
